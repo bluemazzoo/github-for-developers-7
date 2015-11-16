@@ -2,3 +2,4 @@
  - [ ] From: San Diego
  - [ ] A favorite food: Pasta
  - [ ] A hobby: learning code
+ - [ ] Favorite color: blue
